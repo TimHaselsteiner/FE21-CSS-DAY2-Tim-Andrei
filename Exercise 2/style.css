@@ -238,3 +238,27 @@ h3.archives span {
     padding: 10px;
     color: #FFFFFF;
 }
+body{ 
+    Background-color: #464939;
+} 
+
+h3{
+    font-size: 12px;
+}
+
+.participation{
+    background-color: #747C3A; 
+    color: white;
+}
+
+.danger{
+    color: brown;
+    font-weight: bold;
+}
+
+ul > li {color:#525D21;
+    font-style: italic;  }
+    
+    .strong {
+        color:#DD8804;
+    }
