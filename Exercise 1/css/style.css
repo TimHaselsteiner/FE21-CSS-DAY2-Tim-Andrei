@@ -1,0 +1,57 @@
+h3 {
+    border-bottom: 1px solid rgb(0, 0, 0);
+
+}
+
+.container {
+    color: black;
+    width: 800px;
+    box-shadow: 5px 10px;
+    padding-left: 50px;
+    padding-right:50px;
+
+}
+
+.p1 {
+    color: #707070;
+}
+.p2 {
+    color: #707070;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    color:#DB0038 ;
+}
+h2{
+   color: #3998A3;
+}
+
+h3{
+    color: #474747;
+}
+
+.hero {
+    padding-bottom: 10px;
+    background-color:#f4f4f4  ;
+    text-align: center;
+}
+
+li{
+    padding-bottom: 5px;
+    padding-top:5px ;
+}
+
+.ratings{
+    color:#F4B400;
+    font-size: 25px;
+}
+
+*{
+    
+    font-family: 'Happy Monkey';
+}
+
