@@ -1,0 +1,98 @@
+.header img {
+   
+    width: 400px;
+    height:auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  margin-bottom:-20px;
+}
+
+body{
+    background-color:black;
+}
+
+.about p {
+
+    color: white;
+
+    background-color: #1f1f1f;
+
+	/* border: 10px #1f1f1f solid;
+	
+	border-radius: 20px;
+
+	padding: 20px;
+
+	 margin-top: 2.5em; */
+}
+
+
+
+.navbar ul {
+
+
+
+    color:white;
+
+    background-color: #1f1f1f;
+
+	border: 10px #1f1f1f solid;
+	
+	border-radius: 20px;
+
+	padding: 20px;
+
+	margin-top: 2.5em;
+}
+
+.navbar li {
+
+    display: inline;
+}
+
+.navbar {
+    font-size: 200%;
+    color: #D8DF25;
+
+    font-family: 'Architects Daughter';
+
+    
+    text-decoration: none;
+    text-align: center;
+}
+
+.navbar a{
+    font-size: 100%;
+    color: #D8DF25;
+
+    font-family: 'Architects Daughter';
+    text-decoration: none;
+
+}
+
+
+
+.dates ul {
+
+    color:white;
+
+    background-color: #1f1f1f;
+
+	/* border: 10px #1f1f1f solid;
+	
+	border-radius: 20px;
+
+	padding: 20px;
+
+	margin-top: 2.5em; */
+}
+
+.columns{
+
+    column-count: 3;
+    color: white;
+    column-gap: 20px; 
+}
+
